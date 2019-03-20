@@ -1,7 +1,13 @@
 #Images
 *.jpg
-/output*/
-
+output*/
+output/
+env/
+files/
+orgin/
+output2/
+output3/
+results/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
